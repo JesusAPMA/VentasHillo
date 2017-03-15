@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VentasHillo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+</resources>

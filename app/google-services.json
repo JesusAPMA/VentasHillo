@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "75582066857",
+    "firebase_url": "https://ventashillo-85f2e.firebaseio.com",
+    "project_id": "ventashillo-85f2e",
+    "storage_bucket": "ventashillo-85f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75582066857:android:495c4ff80b4b66bf",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.ventashillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75582066857-u9un9j5u7dacn91b8u2ihrocs06i2ami.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.ventashillo",
+            "certificate_hash": "100b21de6ec5d970ef50f169d15943bafaf3d50a"
+          }
+        },
+        {
+          "client_id": "75582066857-p9agk0dbg76m01cvru4alico47p184g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.ventashillo",
+            "certificate_hash": "6c07ee33bdaa1743c5dc0463b5b94ce9fd1e17bd"
+          }
+        },
+        {
+          "client_id": "75582066857-ibm34o0qqoj55pji8qiopkch56q7465m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3SBcS5acsnb1gd9trEE652svmRcSM6nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

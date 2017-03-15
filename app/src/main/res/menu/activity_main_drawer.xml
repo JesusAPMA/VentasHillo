@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_acc_ref"
+            android:icon="@drawable/tire"
+            android:title="Accesorios y Refacciones" />
+        <item
+            android:id="@+id/nav_agr_gan"
+            android:icon="@drawable/agricultura"
+            android:title="Agricultura y Ganadería" />
+        <item
+            android:id="@+id/nav_ali"
+            android:icon="@drawable/comida"
+            android:title="Alimentos" />
+        <item
+            android:id="@+id/nav_ani_mas"
+            android:icon="@drawable/animales"
+            android:title="Animales y Mascotas" />
+        <item
+            android:id="@+id/nav_aut"
+            android:icon="@drawable/carro"
+            android:title="Autos" />
+        <item
+            android:id="@+id/nav_beb_mat"
+            android:icon="@drawable/maternidad"
+            android:title="Bebé y Maternidad" />
+        <item
+            android:id="@+id/nav_bic"
+            android:icon="@drawable/bicicleta"
+            android:title="Bicicletas" />
+        <item
+            android:id="@+id/nav_bol"
+            android:icon="@drawable/boletos"
+            android:title="Boletos" />
+        <item
+            android:id="@+id/nav_cel_sma"
+            android:icon="@drawable/celulares"
+            android:title="Celulares y Smartphones" />
+        <item
+            android:id="@+id/nav_clu_pas"
+            android:icon="@drawable/pasatiempos"
+            android:title="Clubs y Pasatiempos" />
+        <item
+            android:id="@+id/nav_col"
+            android:icon="@drawable/coleccionables"
+            android:title="Coleccionables" />
+        <item
+            android:id="@+id/nav_com"
+            android:icon="@drawable/computacion"
+            android:title="Computación" />
+        <item
+        android:id="@+id/nav_dep_fit"
+        android:icon="@drawable/deportes"
+        android:title="Deportes y Fitness" />
+        <item
+            android:id="@+id/nav_edu_ase_cur"
+            android:icon="@drawable/educacion"
+            android:title="Educación y Asesorias" />
+        <item
+            android:id="@+id/nav_ele_aud_vid_fot"
+            android:icon="@drawable/electronica"
+            android:title="Electrónica Audio/Video/Foto" />
+        <item
+        android:id="@+id/nav_emp"
+        android:icon="@drawable/empleo"
+        android:title="Empleos" />
+        <item
+            android:id="@+id/nav_far_equ"
+            android:icon="@drawable/farmacia"
+            android:title="Farmacia y Equipo Medico" />
+        <item
+            android:id="@+id/nav_fer"
+            android:icon="@drawable/ferreteria"
+            android:title="Ferreteria" />
+        <item
+            android:id="@+id/nav_han_ort"
+            android:icon="@drawable/handicap"
+            android:title="Handicap/Ortopedia" />
+        <item
+            android:id="@+id/nav_hog_dec"
+            android:icon="@drawable/hogar"
+            android:title="Hogar y Decoración" />
+        <item
+            android:id="@+id/nav_ind_ofi"
+            android:icon="@drawable/oficina"
+            android:title="Industrias y Oficinas" />
+        <item
+        android:id="@+id/nav_inm_pro"
+        android:icon="@drawable/inmuebles"
+        android:title="Inmuebles y Propiedades" />
+        <item
+        android:id="@+id/nav_ins_equ"
+        android:icon="@drawable/instrumentos"
+        android:title="Instrumentos y Equipo Musical" />
+        <item
+        android:id="@+id/nav_jue_jug"
+        android:icon="@drawable/juguetes"
+        android:title="Juegos y Jueguetes" />
+        <item
+        android:id="@+id/nav_lib_rev"
+        android:icon="@drawable/libros"
+        android:title="Libros y Revistas" />
+
+        <item
+        android:id="@+id/nav_mot"
+        android:icon="@drawable/motos"
+        android:title="Motos y Vehículos Todo Terreno" />
+        <item
+            android:id="@+id/nav_mus"
+            android:icon="@drawable/musica"
+            android:title="Música, Peliculas y Series TV" />
+        <item
+            android:id="@+id/nav_nut_sup"
+            android:icon="@drawable/nutricion"
+            android:title="Nutrición y Suplementos" />
+        <item
+            android:id="@+id/nav_org"
+            android:icon="@drawable/organiza"
+            android:title="Organiza Tu Evento" />
+        <item
+            android:id="@+id/nav_pap"
+            android:icon="@drawable/papeleria"
+            android:title="Papelería" />
+
+        <item
+            android:id="@+id/nav_pes"
+            android:icon="@drawable/pesca"
+            android:title="Pesca" />
+
+        <item
+            android:id="@+id/nav_rest"
+            android:icon="@drawable/restaurante"
+            android:title="Restaurantes" />
+        <item
+            android:id="@+id/nav_rop_acc"
+            android:icon="@drawable/ropa"
+            android:title="Ropa y Accesorios" />
+        <item
+            android:id="@+id/nav_sal_bell"
+            android:icon="@drawable/belleza"
+            android:title="Salud y Belleza" />
+        <item
+            android:id="@+id/nav_ser"
+            android:icon="@drawable/servicios"
+            android:title="Servicios" />
+       <item
+            android:id="@+id/nav_sol"
+            android:icon="@drawable/arte"
+            android:title="Solo Arte" />
+        <item
+            android:id="@+id/nav_tecam"
+            android:icon="@drawable/cambio"
+            android:title="Te lo Cambio" />
+        <item
+            android:id="@+id/nav_tecom"
+            android:icon="@drawable/compro"
+            android:title="Te lo Compro" />
+        <item
+            android:id="@+id/nav_tur_vac"
+            android:icon="@drawable/regalo"
+            android:title="Turismo y Vacaciones" />
+        <item
+            android:id="@+id/nav_veh_acu"
+            android:icon="@drawable/vehiculos_acuaticos"
+            android:title="Vehículos Acuaticos" />
+        <item
+            android:id="@+id/nav_veh_aer"
+            android:icon="@drawable/vehiculo_aereo"
+            android:title="Vehículos Aereos" />
+        <item
+            android:id="@+id/nav_veh_ind"
+            android:icon="@drawable/vehiculos_industriales"
+            android:title="Vehículos Industriales" />
+
+        <item
+            android:id="@+id/nav_videojuegos"
+            android:icon="@drawable/videojuegos"
+            android:title="Videojuegos" />
+
+
+
+
+
+
+
+
+    </group>
+
+
+
+</menu>
